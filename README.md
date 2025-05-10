@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Meal Swipe Decider
 
-Info about your project goes here
+
